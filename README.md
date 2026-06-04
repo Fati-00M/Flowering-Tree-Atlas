@@ -72,8 +72,3 @@ The simplified version of the database (`flowering_trees_simplified.csv`) includ
 | **TRY Traits** | `flower color`, `flower sex`, `fruit type`, `plant growth form`, `plant height`, `plant lifespan (longevity)`, `plant lifespan: age trees reach in forested stands`, `plant woodiness`, `wood growth ring distinction`, etc. | 20 selected vegetative, seed, and reproductive traits |
 | **Economic Uses** | `Category of Use`<br>`Crop Wild Relative` | Human uses (e.g., *Materials; Medicines; Poisons*) and crop relative status |
 | **Regions** | `native to`<br>`native range` | Native countries and geographical regions |
-
----
-
-## 💾 Large File Exclusions (`.gitignore`)
-Due to GitHub's file size limits (50MB warning, 100MB hard limit), raw source files and very large lookup directories are excluded from git tracking. If you need to re-download the raw data, make sure they are placed in their respective folders as described in the directory tree.
