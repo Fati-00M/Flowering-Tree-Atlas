@@ -1,0 +1,25 @@
+# =========================================================================
+# Git Ignore rules for Flowering Trees Project
+# =========================================================================
+
+# Large dataset files (>100MB)
+merged_species_only.csv
+Flowering Trees/flowering_plant_families.csv
+
+# Large raw database folders (~900MB total)
+Flowering Trees/wfo_plantlist_2025-12/
+
+# Large plant family CSVs (~700MB total)
+Flowering Trees/wfo flowering plant families/
+
+# Large downloaded zip files (~300MB total)
+Flowering Trees/families_dwc/
+
+# Python / Jupyter Notebooks temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.conda/

@@ -1,0 +1,117 @@
+family,taxon,author,native to
+Anacardiaceae,Cotinus coggygria,Scop.,Hungary
+Betulaceae,Alnus alnobetula,(Ehrh.) K.Koch,Hungary
+Betulaceae,Alnus glutinosa,(L.) Gaertn.,Hungary
+Betulaceae,Alnus incana,(L.) Moench,Hungary
+Betulaceae,Betula pendula,Roth,Hungary
+Betulaceae,Betula pubescens,Ehrh.,Hungary
+Betulaceae,Carpinus betulus,L.,Hungary
+Betulaceae,Carpinus orientalis,Mill.,Hungary
+Betulaceae,Corylus avellana,L.,Hungary
+Celastraceae,Euonymus europaeus,L.,Hungary
+Cornaceae,Cornus mas,L.,Hungary
+Cupressaceae,Juniperus communis,L.,Hungary
+Elaeagnaceae,Hippophae rhamnoides,L.,Hungary
+Fabaceae,Laburnum anagyroides,Medik.,Hungary
+Fagaceae,Fagus sylvatica,L.,Hungary
+Fagaceae,Quercus cerris,L.,Hungary
+Fagaceae,Quercus frainetto,Ten.,Hungary
+Fagaceae,Quercus petraea,(Matt.) Liebl.,Hungary
+Fagaceae,Quercus pubescens,Willd.,Hungary
+Fagaceae,Quercus robur,L.,Hungary
+Malvaceae,Tilia cordata,Mill.,Hungary
+Malvaceae,Tilia platyphyllos,Scop.,Hungary
+Malvaceae,Tilia tomentosa,Moench,Hungary
+Oleaceae,Fraxinus angustifolia,Vahl,Hungary
+Oleaceae,Fraxinus excelsior,L.,Hungary
+Oleaceae,Fraxinus ornus,L.,Hungary
+Pinaceae,Abies alba,Mill.,Hungary
+Pinaceae,Picea abies,(L.) H.Karst.,Hungary
+Pinaceae,Pinus sylvestris,L.,Hungary
+Rhamnaceae,Frangula alnus,Mill.,Hungary
+Rhamnaceae,Rhamnus cathartica,L.,Hungary
+Rosaceae,Crataegus laevigata,(Poir.) DC.,Hungary
+Rosaceae,Crataegus monogyna,Jacq.,Hungary
+Rosaceae,Crataegus nigra,Waldst. & Kit.      ,Hungary
+Rosaceae,Crataegus pentagyna,Waldst. & Kit. ex Willd.,Hungary
+Rosaceae,Crataegus rhipidophylla,Gand.,Hungary
+Rosaceae,Malus dasyphylla,Borkh.,Hungary
+Rosaceae,Malus sylvestris,(L.) Mill.,Hungary
+Rosaceae,Prunus avium,(L.) L.,Hungary
+Rosaceae,Prunus mahaleb,L.,Hungary
+Rosaceae,Prunus padus,L.,Hungary
+Rosaceae,Prunus spinosa,L.,Hungary
+Rosaceae,Pyrus communis,L.,Hungary
+Rosaceae,Pyrus nivalis,Jacq.,Hungary
+Rosaceae,Sorbus acutiserrata,Németh,Hungary
+Rosaceae,Sorbus adamii,Kárpáti,Hungary
+Rosaceae,Sorbus andreanszkyana,Kárpáti,Hungary
+Rosaceae,Sorbus aria,(L.) Crantz,Hungary
+Rosaceae,Sorbus aucuparia,L.,Hungary
+Rosaceae,Sorbus bakonyensis,(Jáv.) Kárpáti,Hungary
+Rosaceae,Sorbus balatonica,Kárpáti,Hungary
+Rosaceae,Sorbus barabitsii,C.Németh,Hungary
+Rosaceae,Sorbus bodajkensis,Barabits,Hungary
+Rosaceae,Sorbus borosiana,Kárpáti,Hungary
+Rosaceae,Sorbus budaiana,Kárpáti,Hungary
+Rosaceae,Sorbus buekkensis,(Soó) Soó,Hungary
+Rosaceae,Sorbus danubialis,(Jáv.) Kárpáti,Hungary
+Rosaceae,Sorbus decipientiformis,Kárpáti,Hungary
+Rosaceae,Sorbus degenii,Jáv.,Hungary
+Rosaceae,Sorbus domestica,L.        ,Hungary
+Rosaceae,Sorbus dracofolia,C.Németh,Hungary
+Rosaceae,Sorbus eugenii-kelleri,Kárpáti,Hungary
+Rosaceae,Sorbus gayeriana,Kárpáti,Hungary
+Rosaceae,Sorbus gerecseensis,Boros & Kárpáti,Hungary
+Rosaceae,Sorbus graeca,(Lodd. ex Spach) Kotschy,Hungary
+Rosaceae,Sorbus hazslinszkyana,(Soó) Májovský,Hungary
+Rosaceae,Sorbus javorkana,"Somlyay, Sennikov & Vojtkó",Hungary
+Rosaceae,Sorbus keszthelyensis,Somlyay & Sennikov,Hungary
+Rosaceae,Sorbus latissima,Kárpáti,Hungary
+Rosaceae,Sorbus pannonica,Kárpáti,Hungary
+Rosaceae,Sorbus pelsoensis,C.Németh,Hungary
+Rosaceae,Sorbus polgariana,C.Németh,Hungary
+Rosaceae,Sorbus pseudobakonyensis,Kárpáti,Hungary
+Rosaceae,Sorbus pseudolatifolia,Boros,Hungary
+Rosaceae,Sorbus pseudosemiincisa,Boros,Hungary
+Rosaceae,Sorbus pseudovertesensis,Boros,Hungary
+Rosaceae,Sorbus pyricarpa,C.Németh,Hungary
+Rosaceae,Sorbus redliana,Kárpáti,Hungary
+Rosaceae,Sorbus semiincisa,(Borbás) Borbás,Hungary
+Rosaceae,Sorbus simonkaiana,Kárpáti,Hungary
+Rosaceae,Sorbus subdanubialis,(Soó) Kárpáti,Hungary
+Rosaceae,Sorbus tobani,C.Németh,Hungary
+Rosaceae,Sorbus torminalis,Garsault,Hungary
+Rosaceae,Sorbus udvardyana,Somlyay & Sennikov,Hungary
+Rosaceae,Sorbus ujhelyii,Somlyay & Sennikov,Hungary
+Rosaceae,Sorbus ulmifolia,Kárpáti,Hungary
+Rosaceae,Sorbus vajdae,Boros,Hungary
+Rosaceae,Sorbus vallerubusensis,C.Németh,Hungary
+Rosaceae,Sorbus vertesensis,Boros,Hungary
+Rosaceae,Sorbus veszpremensis,Barabits,Hungary
+Rosaceae,Sorbus zolyomii,(Soó) Kárpáti,Hungary
+Salicaceae,Populus alba,L.,Hungary
+Salicaceae,Populus nigra,L.,Hungary
+Salicaceae,Populus tremula,L.,Hungary
+Salicaceae,Salix alba,L.,Hungary
+Salicaceae,Salix caprea,L.,Hungary
+Salicaceae,Salix cinerea,L.,Hungary
+Salicaceae,Salix daphnoides,Vill.,Hungary
+Salicaceae,Salix eleagnos,Scop.,Hungary
+Salicaceae,Salix myrsinifolia,Salisb.,Hungary
+Salicaceae,Salix pentandra,L.,Hungary
+Salicaceae,Salix purpurea,L.,Hungary
+Salicaceae,Salix triandra,L.,Hungary
+Salicaceae,Salix viminalis,L.,Hungary
+Sapindaceae,Acer campestre,L.,Hungary
+Sapindaceae,Acer opalus,Mill.,Hungary
+Sapindaceae,Acer platanoides,L.,Hungary
+Sapindaceae,Acer pseudoplatanus,L.,Hungary
+Sapindaceae,Acer tataricum,L.,Hungary
+Staphyleaceae,Staphylea pinnata,L.,Hungary
+Taxaceae,Taxus baccata,L.,Hungary
+Ulmaceae,Ulmus glabra,Huds.,Hungary
+Ulmaceae,Ulmus laevis,Pall.,Hungary
+Ulmaceae,Ulmus minor,Mill.,Hungary
+Viburnaceae,Sambucus nigra,L.,Hungary
+Viburnaceae,Sambucus racemosa,L.,Hungary
